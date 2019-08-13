@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Genta Indra Winata"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gentaiscool.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "gentaiscool/gentaiscool.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Hong Kong"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=7QxkToIAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "gentaiscool"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "gentaiscool"
   vine             :
   weibo            :
   xing             :

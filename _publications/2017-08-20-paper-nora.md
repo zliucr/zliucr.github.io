@@ -1,0 +1,15 @@
+---
+title: "Nora the Empathetic Psychologist"
+collection: publications
+permalink: /publication/2017-08-20-paper-nora
+excerpt: 'Nora is a new dialog system that mimics a conversation witha psychologist by screening for stress, anxiety, and depression. She understands, empathizes, and adapts to users using emotional intelligence modules trained via statistical modelling such as Convolutional Neural Networks. These modules also enable her to personalize the content of each conversation.'
+date: 2017-08-20
+venue: 'Interspeech'
+paperurl: 'https://www.isca-speech.org/archive/Interspeech_2017/pdfs/2050.PDF'
+citation: 'Winata, G. I., Kampman, O., Yang, Y., Dey, A., & Fung, P. (2017). Nora the Empathetic Psychologist. In INTERSPEECH (pp. 3437-3438).'
+---
+Nora is a new dialog system that mimics a conversation witha psychologist by screening for stress, anxiety, and depression. She understands, empathizes, and adapts to users using emotional intelligence modules trained via statistical modelling such as Convolutional Neural Networks. These modules also enable her to personalize the content of each conversation.
+
+[Download paper here](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/2050.PDF)
+
+Recommended citation: Winata, G. I., Kampman, O., Yang, Y., Dey, A., & Fung, P. (2017). Nora the Empathetic Psychologist. In INTERSPEECH (pp. 3437-3438).

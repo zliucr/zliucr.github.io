@@ -5,7 +5,7 @@ status: unpublished
 permalink: /publication/2020-02-17-paper-caire
 excerpt: ''
 date: 2020-02-17
-venue: 'AAAI 2020 (System Demonstration)'
+venue: 'AAAI (System Demonstration)'
 paperurl: 'https://arxiv.org/pdf/1907.12108.pdf'
 authors: 'Zhaojiang Lin, Peng Xu, Genta Indra Winata, Farhad Bin Siddique, Zihan Liu, Jamin Shin, Pascale Fung'
 citation: 'Lin, Z., Xu, P., Winata, G. I., Liu, Z., & Fung, P. (2019). CAiRE: An End-to-End Empathetic Chatbot. arXiv preprint arXiv:1907.12108.'

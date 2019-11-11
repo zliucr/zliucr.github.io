@@ -2,9 +2,9 @@
 title: "Lightweight and Efficient End-to-End Speech Recognition Using Low-Rank Transformer"
 collection: publications
 status: published
-permalink: /publication/2020-05-04-paper-lightweight
+permalink: /publication/2019-paper-lightweight
 excerpt: ''
-date: 2020-02-17
+date: 2019-10-30
 venue: 'arXiv preprint arXiv'
 paperurl: 'https://arxiv.org/abs/1910.13923'
 authors: 'Genta Indra Winata*, Samuel Cahyawijaya*, Zhaojiang Lin, Zihan Liu, Pascale Fung'

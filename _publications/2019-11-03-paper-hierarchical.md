@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition"
 collection: publications
-status: unpublished
+status: published
 permalink: /publication/2019-11-03-paper-hierarchical
 excerpt: ''
 date: 2019-11-03

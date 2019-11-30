@@ -1,7 +1,7 @@
 ---
 title: "Zero-shot Cross-lingual Dialogue Systems with Transferable Latent Variables"
 collection: publications
-status: unpublished
+status: published
 permalink: /publication/2019-11-03-zero
 excerpt: ''
 date: 2019-11-03

@@ -1,7 +1,7 @@
 ---
 title: "Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences"
 collection: publications
-status: unpublished
+status: published
 permalink: /publication/2019-11-02-paper-code
 excerpt: ''
 date: 2019-11-02

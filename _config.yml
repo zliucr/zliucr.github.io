@@ -11,9 +11,9 @@ title                    : "Genta Indra Winata"
 title_separator          : "-"
 name                     : &name "Genta Indra Winata"
 description              : &description "personal description"
-url                      : https://gentaiscool.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zliucr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gentaiscool/gentaiscool.github.io"
+repository               : "zliucr/zliucr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Genta Indra Winata"
+  name             : "Zihan Liu"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Candidate"
   location         : "Hong Kong"
   employer         : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=7QxkToIAAAAJ&hl=en"
-  email            : "giwinata@connect.ust.hk"
+  email            : "zliucr@connect.ust.hk"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gentaiscool"
+  github           : "zliucr"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "gentaiscool"
+  linkedin         : "zihan-liu-88a368170"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "gentaiscool"
+  twitter          : "JohanLiu96"
   vine             :
   weibo            :
   xing             :

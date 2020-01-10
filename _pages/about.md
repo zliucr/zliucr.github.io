@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology supervised by [Prof. Pascale Fung](http://www.ee.ust.hk/~pascale/). Few years ago, I completed my Bachelor in Computer Science at Institut Teknologi Bandung. 
+I am Zihan Liu. Currently, I am a Ph.D. candidate at Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology supervised by [Prof. Pascale Fung](http://www.ee.ust.hk/~pascale/) in [Center of AI Research](https://caire.ust.hk/). I received Bachelor Degree from Zhejiang University in 2018.
 
-My current research interests lie primarily in the area of the Natural Language Understanding, Multilingual, Cross-lingual, Code-Switching, Dialogue, and Speech.
+My current research interests are cross-lingual adaptation, cross-domain adaptation, few-shot learning, and dialogue systems.
 
-Feel free to contact me via email.
+Please feel free to contact me.

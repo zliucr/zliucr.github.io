@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Genta Indra Winata"
+title                    : "Zihan Liu"
 title_separator          : "-"
-name                     : &name "Genta Indra Winata"
+name                     : &name "Zihan Liu"
 description              : &description "personal description"
 url                      : https://zliucr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -5,7 +5,7 @@ status: published
 permalink: /publication/2019-11-03-paper-hierarchical
 excerpt: ''
 date: 2019-11-03
-venue: 'EMNLP'
+venue: 'EMNLP-2019'
 paperurl: ''
 authors: 'Genta Indra Winata, Zhaojiang Lin, Jamin Shin, Zihan Liu, Pascale Fung'
 citation: ''

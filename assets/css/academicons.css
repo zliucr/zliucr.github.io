@@ -112,6 +112,12 @@
 .ai-google-scholar-square:before {
   content: "\e829";
 }
+.ai-semantic-scholar:before {
+  content: "\e96e";
+}
+.ai-semantic-scholar-square:before {
+  content: "\e96c";
+}
 .ai-ieee:before {
   content: "\e830";
 }

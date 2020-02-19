@@ -113,15 +113,9 @@
   content: "\e829";
 }
 .ai-semantic-scholar:before {
-  content: "\e96e";
-}
-.ai-semantic-scholar-square:before {
-  content: "\e96c";
-}
-.ai-ieee:before {
   content: "\e830";
 }
-.ai-ieee-square:before {
+.ai-semantic-scholar-square:before {
   content: "\e831";
 }
 .ai-impactstory:before {

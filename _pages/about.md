@@ -13,6 +13,7 @@ My name is Zihan Liu. I received Bachelor Degree from [Zhejiang University](http
 My current research interests are cross-lingual adaptation, cross-domain adaptation, few-shot learning, and dialogue systems.
 
 ## Highlights
+- Two papers accepted at ACL 2020. 1) Coach: A Coarse-to-Fine Approach for Cross-domain Slot Filling; 2) Meta-Transfer Learning for Code-Switched Speech Recognition. Preprints and codes will be available soon!
 - [Low-rank Transformer](https://arxiv.org/abs/1910.13923) accepted at ICASSP 2020 (oral)
 - First author paper [Mixed-Language Training for Cross-lingual Task-oriented Dialogue Systems](https://arxiv.org/abs/1911.09273) accepted at AAAI 2020 (oral)
 - [CAiRE Chatbot](https://arxiv.org/abs/1907.12108) accepted as a demo paper at AAAI 2020 ([Demo](http://eez115.ece.ust.hk:8899/chatbot_home.html)).

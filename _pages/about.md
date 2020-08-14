@@ -13,6 +13,7 @@ I am [Zihan (Johan) Liu](https://zliucr.github.io) (刘子涵). I received Bache
 My current research interests are cross-lingual adaptation, cross-domain adaptation, few-shot learning, and dialogue systems.
 
 ## Highlights
+- [Cross-Accented ASR](https://arxiv.org/pdf/2003.01901.pdf) accepted at Interspeech 2020.
 - Two papers accepted at ACL 2020. 1) Coach: A Coarse-to-Fine Approach for Cross-domain Slot Filling; 2) Meta-Transfer Learning for Code-Switched Speech Recognition.
 - [Low-rank Transformer](https://arxiv.org/abs/1910.13923) accepted at ICASSP 2020 (oral)
 - First author paper [Mixed-Language Training for Cross-lingual Task-oriented Dialogue Systems](https://arxiv.org/abs/1911.09273) accepted at AAAI 2020 (oral)

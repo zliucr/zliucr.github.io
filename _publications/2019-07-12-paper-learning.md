@@ -7,6 +7,7 @@ date: 2019-07-12
 venue: 'The First Workshop on Financial Technology and Natural Language Processing in conjunction with IJCAI'
 paperurl: ''
 authors: 'Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Zihan Liu, Yan Xu, Cong Gao, Pascale Fung'
+paper: https://www.aclweb.org/anthology/W19-55#page=57
 citation: ''
 ---
 Social media sentiment has shown to be a useful resource for product sales forecast. However, research on modeling the correlation between sentiment index and sales is often limited by the scarceness of quarterly sales data. In this paper, we propose to learn how to learn sentiment-sales correlation from different source products and transfer to sales prediction of another, target product. We evaluated our approach on sales data of seven different smartphones and showed that the knowledge transfer from six source products significantly reduced the sales prediction error for the target product, in a 7-fold cross-validation experiment.

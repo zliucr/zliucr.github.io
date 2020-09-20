@@ -7,6 +7,8 @@ date: 2019-07-28
 venue: 'AAAI-2020 Demo'
 paperurl: ''
 authors: 'Zhaojiang Lin, Peng Xu, Genta Indra Winata, Zihan Liu, Pascale Fung'
+paper: https://arxiv.org/pdf/1907.12108.pdf
+demo: https://caire.ust.hk/chatbot
 citation: ''
 ---
 We present CAiRE, an end-to-end generative empathetic chatbot designed to recognize user emotions and respond in an empathetic manner. Our system adapts the Generative Pre-trained Transformer (GPT) to empathetic response generation task via transfer learning. CAiRE is built primarily to focus on empathy integration in fully data-driven generative dialogue systems. We create a web-based user interface which allows multiple users to asynchronously chat with CAiRE. CAiRE also collects user feedback and continues to improve its response quality by discarding undesirable generations via active learning and negative training.

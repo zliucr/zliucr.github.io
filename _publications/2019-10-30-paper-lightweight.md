@@ -5,7 +5,7 @@ status: published
 permalink: /publication/2019-paper-lightweight
 excerpt: ''
 date: 2019-10-30
-venue: 'arXiv preprint arXiv'
+venue: 'ICASSP 2020'
 paperurl: ''
 authors: 'Genta Indra Winata*, Samuel Cahyawijaya*, Zhaojiang Lin, Zihan Liu, Pascale Fung'
 citation: ''

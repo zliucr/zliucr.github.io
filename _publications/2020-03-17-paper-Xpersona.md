@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-03-17-paper-Xpersona
 excerpt: ''
 date: 2020-03-17
-venue: 'arXiv preprint arXiv 2020'
+venue: 'arXiv preprint'
 paperurl: ''
 authors: 'Zihan Liu*, Zhaojiang Lin*, Genta Indra Winata*, Samuel Cahyawijaya*, Andrea Madotto*, Yejin Bang, Etsuko Ishii, Pascale Fung'
 citation: ''

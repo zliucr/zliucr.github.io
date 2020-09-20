@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-03-04-paper-Learning
 excerpt: ''
 date: 2020-03-04
-venue: 'arXiv preprint arXiv 2020'
+venue: 'Interspeech 2020'
 paperurl: ''
 authors: 'Genta Indra Winata*, Samuel Cahyawijaya*, Zihan Liu*, Zhaojiang Lin, Andrea Madotto, Peng Xu, Pascale Fung'
 citation: ''

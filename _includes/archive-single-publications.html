@@ -60,6 +60,24 @@
       {% endif %}
     {% endif %}
 
+    {% if post.paper %}
+      <u><a href="{{post.paper}}" style="padding:0px;margin:0px;font-size:14px">[PAPER]</a></u>
+    {% endif %}
+    {% if post.code %}
+      <u><a href="{{post.code}}" style="padding:0px;margin:0px;font-size:14px">[CODE]</a></u>
+    {% endif %}
+    {% if post.poster %}
+      <u><a href="{{post.poster}}" style="padding:0px;margin:0px;font-size:14px">[POSTER]</a></u>
+    {% endif %}
+    {% if post.slide %}
+      <u><a href="{{post.slide}}" style="padding:0px;margin:0px;font-size:14px">[SLIDES]</a></u>
+    {% endif %}
+    {% if post.demo %}
+      <u><a href="{{post.demo}}" style="padding:0px;margin:0px;font-size:14px">[DEMO]</a></u>
+    {% endif %}
+    {% if post.video %}
+      <u><a href="{{post.video}}" style="padding:0px;margin:0px;font-size:14px">[VIDEO]</a></u>
+    {% endif %}
     <!-- {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}

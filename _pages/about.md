@@ -17,12 +17,13 @@ I serve as the Program Committee and Reviewer:
 - ACL 2020, AAAI 2021, NAACL 2021
 
 ## Highlights
-- First author paper "Cross-lingual Spoken Language Understanding with Regularized Representation Alignment" accepted at EMNLP 2020.
+- Two papers accepted at AAAI 2021! More details can be found [here](https://zliucr.github.io/publications/).
+- [Cross-lingual Spoken Language Understanding with Regularized Representation Alignment](https://www.aclweb.org/anthology/2020.emnlp-main.587.pdf) accepted at EMNLP 2020.
 - [Cross-Accented ASR](https://arxiv.org/pdf/2003.01901.pdf) accepted at Interspeech 2020.
 - Two papers accepted at ACL 2020. 1) Coach: A Coarse-to-Fine Approach for Cross-domain Slot Filling; 2) Meta-Transfer Learning for Code-Switched Speech Recognition.
 - [Low-rank Transformer](https://arxiv.org/abs/1910.13923) accepted at ICASSP 2020 (oral)
-- First author paper [Mixed-Language Training for Cross-lingual Task-oriented Dialogue Systems](https://arxiv.org/abs/1911.09273) accepted at AAAI 2020 (oral)
+- [Mixed-Language Training for Cross-lingual Task-oriented Dialogue Systems](https://arxiv.org/abs/1911.09273) accepted at AAAI 2020 (oral)
 - [CAiRE Chatbot](https://arxiv.org/abs/1907.12108) accepted as a demo paper at AAAI 2020 ([Demo](http://eez115.ece.ust.hk:8899/chatbot_home.html)).
-- First author paper [Zero-shot Cross-lingual NLU](https://www.aclweb.org/anthology/D19-1129/) accepted at EMNLP 2019 (poster)
+- [Zero-shot Cross-lingual NLU](https://www.aclweb.org/anthology/D19-1129/) accepted at EMNLP 2019 (poster)
 
 Please feel free to contact me via email.

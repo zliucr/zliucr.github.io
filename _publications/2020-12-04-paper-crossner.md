@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-12-04
 venue: 'AAAI-2021'
 paperurl: ''
-authors: 'Zihan Liu, Yan Xu, Tiezheng Yu, Wenliang Dai, Samuel Cahyawijaya, Ziwei Ji, Andrea Madotto, Pascale Fung'
+authors: 'Zihan Liu, Yan Xu, Tiezheng Yu, Wenliang Dai, Ziwei Ji, Samuel Cahyawijaya, Andrea Madotto, Pascale Fung'
 paper:
 code:
 citation: ''

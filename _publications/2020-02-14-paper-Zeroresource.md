@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-02-14
 venue: 'RepL4NLP 2020'
 paperurl: ''
-authors: 'Zihan Liu, Genta Indra Winata, Pascale Fung'
+authors: '<span style="color: #0779e4"><b>Zihan Liu</b></span>, Genta Indra Winata, Pascale Fung'
 paper: https://arxiv.org/pdf/2002.05923.pdf
 citation: ''
 ---

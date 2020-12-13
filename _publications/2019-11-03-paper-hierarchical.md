@@ -7,7 +7,7 @@ excerpt: ''
 date: 2019-11-03
 venue: 'EMNLP-2019'
 paperurl: ''
-authors: 'Genta Indra Winata, Zhaojiang Lin, Jamin Shin, Zihan Liu, Pascale Fung'
+authors: 'Genta Indra Winata, Zhaojiang Lin, Jamin Shin, <span style="color: #0779e4"><b>Zihan Liu</b></span>, Pascale Fung'
 paper: https://arxiv.org/pdf/1909.08504.pdf
 code: https://github.com/gentaiscool/meta-emb
 citation: ''

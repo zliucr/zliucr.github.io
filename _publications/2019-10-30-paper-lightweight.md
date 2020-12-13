@@ -7,7 +7,7 @@ excerpt: ''
 date: 2019-10-30
 venue: 'ICASSP 2020'
 paperurl: ''
-authors: 'Genta Indra Winata*, Samuel Cahyawijaya*, Zhaojiang Lin, Zihan Liu, Pascale Fung'
+authors: 'Genta Indra Winata*, Samuel Cahyawijaya*, Zhaojiang Lin, <span style="color: #0779e4"><b>Zihan Liu</b></span>, Pascale Fung'
 paper: https://arxiv.org/pdf/1910.13923.pdf
 slide: /files/icassp2020.pdf
 video: https://youtu.be/2qCvR-Fol5E

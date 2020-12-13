@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-08-01
 venue: 'Proceedings of the Fourth Conference on Machine Translation (WMT-2019) in conjunction with ACL'
 paperurl: ''
-authors: 'Zihan Liu*, Yan Xu*, Genta Indra Winata and Pascale Fung '
+authors: '<span style="color: #0779e4"><b>Zihan Liu*</b></span>, Yan Xu*, Genta Indra Winata and Pascale Fung '
 paper: http://www.statmt.org/wmt19/pdf/WMT0027.pdf
 citation: ''
 ---

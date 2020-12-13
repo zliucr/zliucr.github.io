@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-06-15
 venue: 'The 13th International Workshop on Semantic Evaluation'
 paperurl: ''
-authors: 'Zihan Liu*, Nayeon Lee*, Pascale Fung'
+authors: '<span style="color: #0779e4"><b>Zihan Liu*</b></span>, Nayeon Lee*, Pascale Fung'
 paper: https://www.aclweb.org/anthology/S19-2184.pdf
 code: https://github.com/HLTCHKUST/hyperpartisan-news-detection
 citation: ''

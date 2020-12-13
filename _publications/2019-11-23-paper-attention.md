@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-11-23
 venue: 'AAAI-2020'
 paperurl: ''
-authors: 'Zihan Liu*, Genta Indra Winata*, Zhaojiang Lin, Peng Xu, Pascale Fung'
+authors: '<span style="color: #0779e4"><b>Zihan Liu*</b></span>, Genta Indra Winata*, Zhaojiang Lin, Peng Xu, Pascale Fung'
 paper: https://arxiv.org/pdf/1911.09273.pdf
 code: https://github.com/zliucr/mixed-language-training
 slide: /files/AAAI20.pdf

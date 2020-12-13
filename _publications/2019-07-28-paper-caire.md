@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-07-28
 venue: 'AAAI-2020 Demo'
 paperurl: ''
-authors: 'Zhaojiang Lin, Peng Xu, Genta Indra Winata, Zihan Liu, Pascale Fung'
+authors: 'Zhaojiang Lin, Peng Xu, Genta Indra Winata, <span style="color: #0779e4"><b>Zihan Liu</b></span>, Pascale Fung'
 paper: https://arxiv.org/pdf/1907.12108.pdf
 demo: https://caire.ust.hk/chatbot
 citation: ''

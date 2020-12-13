@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-07-12
 venue: 'The First Workshop on Financial Technology and Natural Language Processing in conjunction with IJCAI'
 paperurl: ''
-authors: 'Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Zihan Liu, Yan Xu, Cong Gao, Pascale Fung'
+authors: 'Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, <span style="color: #0779e4"><b>Zihan Liu</b></span>, Yan Xu, Cong Gao, Pascale Fung'
 paper: https://www.aclweb.org/anthology/W19-55#page=57
 citation: ''
 ---

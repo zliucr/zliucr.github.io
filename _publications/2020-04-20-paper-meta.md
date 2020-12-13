@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-04-20
 venue: 'ACL-2020'
 paperurl: ''
-authors: 'Genta Indra Winata, Samuel Cahyawijaya, Zhaojiang Lin, Zihan Liu, Peng Xu, Pascale Fung'
+authors: 'Genta Indra Winata, Samuel Cahyawijaya, Zhaojiang Lin, <span style="color: #0779e4"><b>Zihan Liu</b></span>, Peng Xu, Pascale Fung'
 paper: https://arxiv.org/pdf/2004.14228.pdf
 code: https://github.com/audioku/meta-transfer-learning
 citation: ''

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-9-15
 venue: 'EMNLP-2020'
 paperurl: ''
-authors: '<span style="color: #0779e4">Zihan Liu</span>, Genta Indra Winata, Peng Xu, Zhaojiang Lin, Pascale Fung'
+authors: '<span style="color: #0779e4"><b>Zihan Liu</b></span>, Genta Indra Winata, Peng Xu, Zhaojiang Lin, Pascale Fung'
 paper: https://arxiv.org/pdf/2009.14510.pdf
 code: https://github.com/zliucr/crosslingual-slu
 citation: ''

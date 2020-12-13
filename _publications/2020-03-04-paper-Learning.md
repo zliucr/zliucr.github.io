@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-03-04
 venue: 'Interspeech 2020'
 paperurl: ''
-authors: 'Genta Indra Winata*, Samuel Cahyawijaya*, Zihan Liu*, Zhaojiang Lin, Andrea Madotto, Peng Xu, Pascale Fung'
+authors: 'Genta Indra Winata*, Samuel Cahyawijaya*, <span style="color: #0779e4"><b>Zihan Liu*</b></span>, Zhaojiang Lin, Andrea Madotto, Peng Xu, Pascale Fung'
 paper: https://arxiv.org/pdf/2003.01901.pdf
 citation: ''
 ---

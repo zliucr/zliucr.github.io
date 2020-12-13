@@ -7,7 +7,7 @@ excerpt: ''
 date: 2019-11-03
 venue: 'EMNLP-2019'
 paperurl: ''
-authors: 'Zihan Liu, Jamin Shin, Yan Xu, Genta Indra Winata, Peng Xu, Andrea Madotto and Pascale Fung'
+authors: '<span style="color: #0779e4"><b>Zihan Liu</b></span>, Jamin Shin, Yan Xu, Genta Indra Winata, Peng Xu, Andrea Madotto and Pascale Fung'
 paper: https://arxiv.org/pdf/1911.04081.pdf
 code: https://github.com/zliucr/Crosslingual-NLU
 citation: ''

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-04-26
 venue: 'ACL-2020'
 paperurl: ''
-authors: 'Zihan Liu, Genta Indra Winata, Peng Xu, Pascale Fung'
+authors: '<span style="color: #0779e4"><b>Zihan Liu</b></span>, Genta Indra Winata, Peng Xu, Pascale Fung'
 paper: https://arxiv.org/pdf/2004.11727.pdf
 code: https://github.com/zliucr/coach
 slide: /files/Coach-ACL2020.pdf

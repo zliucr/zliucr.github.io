@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-06-15
 venue: 'The 2nd Workshop on Machine Reading for Question Answering'
 paperurl: ''
-authors: 'Dan Su, Yan Xu, Genta Indra Winata, Peng Xu, Hyeondey Kim, Zihan Liu, Pascale Fung'
+authors: 'Dan Su, Yan Xu, Genta Indra Winata, Peng Xu, Hyeondey Kim, <span style="color: #0779e4"><b>Zihan Liu</b></span>, Pascale Fung'
 paper: https://www.aclweb.org/anthology/D19-5827.pdf
 citation: ''
 ---

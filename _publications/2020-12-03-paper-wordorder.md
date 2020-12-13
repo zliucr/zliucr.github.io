@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-12-03
 venue: 'AAAI-2021'
 paperurl: ''
-authors: '<span style="color: #FFFFF0">Zihan Liu</span>, Genta Indra Winata, Samuel Cahyawijaya, Andrea Madotto, Zhaojiang Lin, Pascale Fung'
+authors: '<span style="color: #0000a0">Zihan Liu</span>, Genta Indra Winata, Samuel Cahyawijaya, Andrea Madotto, Zhaojiang Lin, Pascale Fung'
 paper: https://arxiv.org/abs/2001.11164
 code:
 citation: ''

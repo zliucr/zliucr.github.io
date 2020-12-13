@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-12-04
 venue: 'AAAI-2021'
 paperurl: ''
-authors: '<b>Zihan Liu</b>, Yan Xu, Tiezheng Yu, Wenliang Dai, Ziwei Ji, Samuel Cahyawijaya, Andrea Madotto, Pascale Fung'
+authors: '<span style="color: #0779e4"><b>Zihan Liu</b></span>, Yan Xu, Tiezheng Yu, Wenliang Dai, Ziwei Ji, Samuel Cahyawijaya, Andrea Madotto, Pascale Fung'
 paper: https://arxiv.org/abs/2012.04373
 code: https://github.com/zliucr/CrossNER
 citation: ''

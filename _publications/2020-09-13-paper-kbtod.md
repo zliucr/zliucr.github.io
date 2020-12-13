@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-9-13
 venue: 'Findings of EMNLP-2020'
 paperurl: ''
-authors: 'Andrea Madotto, Samuel Cahyawijaya, Genta Indra Winata, Yan Xu, Zihan Liu, Zhaojiang Lin, Pascale Fung'
+authors: 'Andrea Madotto, Samuel Cahyawijaya, Genta Indra Winata, Yan Xu, <span style="color: #01c5c4"><b>Zihan Liu</b></span>, Zhaojiang Lin, Pascale Fung'
 paper: https://arxiv.org/pdf/2009.13656.pdf
 code: https://github.com/HLTCHKUST/ke-dialogue
 citation: ''

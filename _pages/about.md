@@ -14,7 +14,7 @@ My current research interests are cross-lingual adaptation, cross-domain adaptat
 
 I serve as the Program Committee and Reviewer:
 
-- ACL 2020, AAAI 2021, NAACL 2021
+- ACL 2020, AAAI 2021, NAACL 2021, ACL 2021
 
 ## Highlights
 - Two papers accepted at AAAI 2021! More details can be found [here](https://zliucr.github.io/publications/).

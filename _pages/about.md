@@ -14,7 +14,7 @@ My current research interests are cross-lingual adaptation, cross-domain adaptat
 
 I serve as the Program Committee and Reviewer:
 
-- ACL 2020, AAAI 2021, NAACL 2021, ACL 2021
+- ACL (2020, 2021), EMNLP (2020, 2021), AAAI 2021, NAACL 2021, Neuips 2021
 
 ## Highlights
 - Two papers accepted at NAACL 2021: "Towards Low-Resource Domain Adaptation for Abstractive Summarization" and "Multimodal End-to-End Sparse Model for Emotion Recognition". More details can be found [here](https://zliucr.github.io/publications/).

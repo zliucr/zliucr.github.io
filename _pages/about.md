@@ -17,6 +17,7 @@ I serve as the Program Committee and Reviewer:
 - ACL (2020, 2021), EMNLP (2020, 2021), AAAI 2021, NAACL 2021, Neuips 2021
 
 ## Highlights
+- "Continual Mixed-Language Pre-Training for Extremely Low-Resource Neural Machine Translation" accepted at Findings of ACL 2021
 - Two papers accepted at NAACL 2021: "Towards Low-Resource Domain Adaptation for Abstractive Summarization" and "Multimodal End-to-End Sparse Model for Emotion Recognition". More details can be found [here](https://zliucr.github.io/publications/).
 - Two papers accepted at AAAI 2021! More details can be found [here](https://zliucr.github.io/publications/).
 - [Cross-lingual Spoken Language Understanding with Regularized Representation Alignment](https://www.aclweb.org/anthology/2020.emnlp-main.587.pdf) accepted at EMNLP 2020.

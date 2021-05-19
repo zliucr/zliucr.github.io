@@ -1,5 +1,5 @@
 ---
-title: "AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization"
+title: "Continual Mixed-Language Pre-Training for Extremely Low-Resource Neural Machine Translation"
 collection: publications
 permalink: /publication/2021-05-09-paper-cptnmt
 excerpt: ''

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-05-09
 venue: 'Findings of ACL 2021'
 paperurl: ''
-authors: '<span style="color: #0779e4"><b>Zihan Liu*</b></span>, Genta Indra Winata, Pascale Fung'
+authors: '<span style="color: #0779e4"><b>Zihan Liu</b></span>, Genta Indra Winata, Pascale Fung'
 paper: https://arxiv.org/abs/2105.03953
 code: https://github.com/zliucr/cpt-nmt
 citation: ''

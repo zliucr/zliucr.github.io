@@ -14,7 +14,7 @@ My current research interests are multilingual, cross-lingual, cross-domain, few
 
 
 ## Highlights
-- [XPersona](https://arxiv.org/pdf/2003.07568.pdf) received Honorable Mention from NLP for Conversational AI workshop at EMNLP 2021.
+- [XPersona](https://arxiv.org/pdf/2003.07568.pdf) received Honorable Mention from Conversational AI workshop at EMNLP 2021.
 - [Vision Guided Pre-trained Language Models](https://aclanthology.org/2021.emnlp-main.326.pdf) got accepted at EMNLP 2021.
 - Two papers accepted at NAACL 2021: [Domain Adaptation for Summarization](https://aclanthology.org/2021.naacl-main.471.pdf) and [Multimodal Emotion Recognition](https://aclanthology.org/2021.naacl-main.417.pdf).
 - Two papers accepted at AAAI 2021: [Word Order in Cross-lingual Tasks](https://arxiv.org/pdf/2001.11164) and [CrossNER](https://arxiv.org/pdf/2012.04373).
@@ -23,6 +23,6 @@ My current research interests are multilingual, cross-lingual, cross-domain, few
 - Two papers accepted at ACL 2020: [Cross-domain Slot Filling](https://aclanthology.org/2020.acl-main.3.pdf) and [Code-Switched Speech Recognition](https://aclanthology.org/2020.acl-main.348.pdf).
 - [Low-rank Transformer](https://arxiv.org/abs/1910.13923) got accepted at ICASSP 2020 (oral)
 - [Cross-lingual Task-oriented Dialogue](https://arxiv.org/abs/1911.09273) got accepted at AAAI 2020 (oral)
-- [CAiRE Chatbot](https://arxiv.org/abs/1907.12108) accepted as a demo paper at AAAI 2020 ([Demo](http://eez115.ece.ust.hk:8899/chatbot_home.html)).
+- [CAiRE Chatbot](https://arxiv.org/abs/1907.12108) accepted as a demo paper at AAAI 2020.
 
 Please feel free to contact me via email.

@@ -3,8 +3,8 @@ title: "XPersona: Evaluating Multilingual Personalized Chatbot"
 collection: publications
 permalink: /publication/2020-03-17-paper-Xpersona
 excerpt: ''
-date: 2020-03-17
-venue: 'arXiv preprint 2020'
+date: 2021-10-17
+venue: 'ConvAI 2021 (Honorable Mention)'
 paperurl: ''
 authors: '<span style="color: #0779e4"><b>Zihan Liu*</b></span>, Zhaojiang Lin*, Genta Indra Winata*, Samuel Cahyawijaya*, Andrea Madotto*, Yejin Bang, Etsuko Ishii, Pascale Fung'
 code: 'https://github.com/HLTCHKUST/Xpersona'

@@ -14,6 +14,7 @@ My current research interests are multilingual, cross-lingual, cross-domain, few
 
 
 ## Highlights
+- [Retrieval-Free Knowledge-Grounded Dialogue](https://arxiv.org/abs/2105.06232) received Best Student Paper Award from DialDoc workshop at ACL 2022.
 - [XPersona](https://arxiv.org/pdf/2003.07568.pdf) received Best Paper Honorable Mention Award from Conversational AI workshop at EMNLP 2021.
 - [Vision Guided Pre-trained Language Models](https://aclanthology.org/2021.emnlp-main.326.pdf) got accepted at EMNLP 2021.
 - Two papers accepted at NAACL 2021: [Domain Adaptation for Summarization](https://aclanthology.org/2021.naacl-main.471.pdf) and [Multimodal Emotion Recognition](https://aclanthology.org/2021.naacl-main.417.pdf).

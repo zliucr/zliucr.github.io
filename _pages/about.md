@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am [Zihan (Johan) Liu](https://zliucr.github.io) (刘子涵). I received Bachelor Degree from [Zhejiang University](https://www.zju.edu.cn/english/). Currently, I am a Ph.D. candidate at Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](http://www.ust.hk) supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/index.html) in [Center of AI Research](https://caire.ust.hk/). 
-I serve as the Program Committee and Reviewer at ACL (2020, 2021), EMNLP (2020, 2021), AAAI 2021, NAACL 2021, Neuips 2021, ACL Rolling Review.
+I serve as the Program Committee and Reviewer at ACL, EMNLP, AAAI, NAACL, Neuips, ICML, and ACL Rolling Review.
 My current research interests are multilingual, cross-lingual, cross-domain, few-shot learning, and dialogue systems.
 
 

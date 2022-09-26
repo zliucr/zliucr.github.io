@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am [Zihan (Johan) Liu](https://zliucr.github.io) (刘子涵). I received Bachelor Degree from [Zhejiang University](https://www.zju.edu.cn/english/). Currently, I am a Ph.D. candidate at Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](http://www.ust.hk) supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/index.html) in [Center of AI Research](https://caire.ust.hk/). 
+I am [Zihan (Johan) Liu](https://zliucr.github.io) (刘子涵). 
+Currently, I am a research scientist at [Nvidia Applied Deep Learning Research (ADLR) Team](https://nv-adlr.github.io/). I received Bachelor Degree from [Zhejiang University](https://www.zju.edu.cn/english/), and Ph.D. from the Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](http://www.ust.hk) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/index.html) in [Center of AI Research](https://caire.ust.hk/). 
 I serve as the Program Committee and Reviewer at ACL, EMNLP, AAAI, NAACL, Neuips, ICML, and ACL Rolling Review.
-My current research interests are multilingual, cross-lingual, cross-domain, few-shot learning, and dialogue systems.
+My current research interests are multilingual, few-shot learning, multimodal, and dialogue systems.
 
 
 ## Highlights

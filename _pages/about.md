@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am [Zihan (Johan) Liu](https://zliucr.github.io) (刘子涵). I am a research scientist at [Nvidia Applied Deep Learning Research (ADLR) Team](https://nv-adlr.github.io/). I received Bachelor Degree from [Zhejiang University](https://www.zju.edu.cn/english/), and Ph.D. Degree from the Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](http://www.ust.hk) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/index.html) in [Center of AI Research](https://caire.ust.hk/). 
-I serve as the Program Committee and Reviewer at ACL, EMNLP, AAAI, NAACL, Neuips, ICML, and ACL Rolling Review.
-My current research interests are multilingual, few-shot learning, multimodal, and dialogue systems.
+I am [Zihan (Johan) Liu](https://zliucr.github.io) (刘子涵). I am a Senior research scientist at [Nvidia Applied Deep Learning Research (ADLR) Team](https://nv-adlr.github.io/). I received Bachelor Degree from [Zhejiang University](https://www.zju.edu.cn/english/), and Ph.D. Degree from the Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](http://www.ust.hk) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/index.html) in [Center of AI Research](https://caire.ust.hk/). 
+I serve as the Program Committee and Reviewer at ACL, EMNLP, AAAI, NAACL, Neuips, ICML, and ACL Rolling Review. I am working on chat models, RAG, retrieval and multimodal.
 
 
 ## Highlights
+- We introduce [ChatQA-1.5](https://chatqa-project.github.io/) which surpasses GPT-4 on Conversational QA and RAG.
 - [Retrieval-Free Knowledge-Grounded Dialogue](https://arxiv.org/abs/2105.06232) received Best Student Paper Award from DialDoc workshop at ACL 2022.
 - [XPersona](https://arxiv.org/pdf/2003.07568.pdf) received Best Paper Honorable Mention Award from Conversational AI workshop at EMNLP 2021.
 - [Vision Guided Pre-trained Language Models](https://aclanthology.org/2021.emnlp-main.326.pdf) got accepted at EMNLP 2021.

@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Zihan Liu"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist at Nvidia. Working on natural language processing, conversational AI, and multimodal learning"
+  bio              : "Senior Research Scientist at Nvidia. Working on chat models, RAG, retrieval and multimodal."
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=LPabcsYAAAAJ&hl=en"

@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am [Zihan (Johan) Liu](https://zliucr.github.io) (刘子涵). I am a Senior research scientist at [Nvidia Applied Deep Learning Research (ADLR) Team](https://nv-adlr.github.io/). I received Bachelor Degree from [Zhejiang University](https://www.zju.edu.cn/english/), and Ph.D. Degree from the Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](http://www.ust.hk) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/index.html) in [Center of AI Research](https://caire.ust.hk/). 
-I serve as the Program Committee and Reviewer at ACL, EMNLP, AAAI, NAACL, Neuips, ICML, and ACL Rolling Review. I am working on chat models, RAG, retrieval and multimodal.
+I am [Zihan Liu](https://zliucr.github.io) (刘子涵). I am a Senior research scientist at [Nvidia Applied Deep Learning Research (ADLR) Team](https://nv-adlr.github.io/). I received Bachelor Degree from [Zhejiang University](https://www.zju.edu.cn/english/), and Ph.D. Degree from the Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](http://www.ust.hk) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/index.html) in [Center of AI Research](https://caire.ust.hk/). I work on LLMs reasoning, post-training, and RAG.
 
 
 ## Highlights
-- We introduce [ChatQA-1.5](https://chatqa-project.github.io/) which surpasses GPT-4 on Conversational QA and RAG.
-- [Retrieval-Free Knowledge-Grounded Dialogue](https://arxiv.org/abs/2105.06232) received Best Student Paper Award from DialDoc workshop at ACL 2022.
+- [AceReason-Nemotron](https://huggingface.co/collections/nvidia/acereason-682f4e1261dc22f697fd1485): Advanced LLM reasoning models on Math and Code.
+- [AceMath](https://research.nvidia.com/labs/adlr/acemath/): Frontier math reasoning models.
+- [NVLM](https://research.nvidia.com/labs/adlr/NVLM-1/): Open Frontier-Class Multimodal LLMs.
+- [RankRAG](https://arxiv.org/abs/2407.02485): SoTA RAG model with rerank.
+- [ChatQA-2](https://chatqa2-project.github.io/): Long Context (128K) RAG model.
+- [ChatQA-1.5](https://chatqa-project.github.io/): Surpassing GPT-4 on Conversational QA and RAG.
+<!-- - [Retrieval-Free Knowledge-Grounded Dialogue](https://arxiv.org/abs/2105.06232) received Best Student Paper Award from DialDoc workshop at ACL 2022.
 - [XPersona](https://arxiv.org/pdf/2003.07568.pdf) received Best Paper Honorable Mention Award from Conversational AI workshop at EMNLP 2021.
 - [Vision Guided Pre-trained Language Models](https://aclanthology.org/2021.emnlp-main.326.pdf) got accepted at EMNLP 2021.
 - Two papers accepted at NAACL 2021: [Domain Adaptation for Summarization](https://aclanthology.org/2021.naacl-main.471.pdf) and [Multimodal Emotion Recognition](https://aclanthology.org/2021.naacl-main.417.pdf).
@@ -25,6 +29,6 @@ I serve as the Program Committee and Reviewer at ACL, EMNLP, AAAI, NAACL, Neuips
 - Two papers accepted at ACL 2020: [Cross-domain Slot Filling](https://aclanthology.org/2020.acl-main.3.pdf) and [Code-Switched Speech Recognition](https://aclanthology.org/2020.acl-main.348.pdf).
 - [Low-rank Transformer](https://arxiv.org/abs/1910.13923) got accepted at ICASSP 2020 (oral)
 - [Cross-lingual Task-oriented Dialogue](https://arxiv.org/abs/1911.09273) got accepted at AAAI 2020 (oral)
-- [CAiRE Chatbot](https://arxiv.org/abs/1907.12108) accepted as a demo paper at AAAI 2020.
+- [CAiRE Chatbot](https://arxiv.org/abs/1907.12108) accepted as a demo paper at AAAI 2020. -->
 
 Please feel free to contact me via email.
